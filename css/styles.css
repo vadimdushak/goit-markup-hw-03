@@ -45,8 +45,6 @@ ol {
 }
 .page-header{
     border-bottom: 1px solid #e7e9fc;
-    align-items: center;
-    justify-content: space-between;
 }
 .header-container{
     display: flex;
@@ -79,14 +77,14 @@ ol {
     align-items: center;
    
 }
-.page-nav .link,
+.nav-link,
 .contact-link {
     padding-top: 24px;
     padding-bottom: 24px;
     display: inline-block;
 }
 
-.page-nav .link:hover {
+.nav-link:hover {
     color: #404BBF;
 }
 .nav-link:active {
@@ -123,6 +121,11 @@ ol {
 .page-title, 
 .page-footer {
     background-color: #2E2F42;
+}
+
+.page-title {
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 
 .page-title-button{
