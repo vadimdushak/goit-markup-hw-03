@@ -55,7 +55,7 @@ a {
     gap: 76px;
 }
 .contacts{
-    /* margin-left: auto; */
+    font-style: normal;
 }
 
 .contacts-list{
@@ -219,11 +219,12 @@ a {
 }
 .portfolio-item{
     width: calc((100% - 24px * 2) / 3);
+   
+}
+.portfolio-content{
     border-left: 1px solid #e7e9fc;
     border-right: 1px solid #e7e9fc;
     border-bottom: 1px solid #e7e9fc;
-}
-.portfolio-content{
     padding: 32px 16px;
 
 }
