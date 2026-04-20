@@ -67,14 +67,20 @@ a {
     gap: 40px;
     
 }
-.nav-item {
+
+.nav-link{
     color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    display: inline-block;
+
 }
-.nav-link,
+
+
 .contact-link {
     padding-top: 24px;
     padding-bottom: 24px;
