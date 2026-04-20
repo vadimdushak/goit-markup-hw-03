@@ -91,12 +91,12 @@ ol {
     color: #404BBF;
 }
 
-.contacts .contact-link {
+.contact-link {
     color: #434455;
     padding-top: 24px;
     padding-bottom: 24px;
 }
-.contacts .contact-link:hover{
+.contact-link:hover{
     color: #404BBF;
 }
 .page-title-container{
@@ -144,12 +144,12 @@ ol {
     
 
 }
-.page-title .page-title-button:hover {
+.page-title-button:hover {
     background-color: #404BBF;
 
 }
 
-.page-header .logo {
+.logo-header{
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -158,7 +158,7 @@ ol {
     padding-top: 24px;
     padding-bottom: 24px;
 }
-.page-header .logo-accent{
+.logo-accent{
     color: #4D5AE5;
 }
 
@@ -183,7 +183,7 @@ ol {
 .feature-title {
     margin-bottom: 8px;
 }
-.features-list li {
+.features-list-item {
     width: calc((100% - 24px * 3) / 4);
 }
 .team{
@@ -235,13 +235,13 @@ ol {
     margin-bottom: 72px;
 
 }
-.page-footer p {
+.page-footer-discription {
     color: #FFFFFF;
 }
 .team-hero, .team-description{
     text-align: center;
 }
-.page-footer .logo-footer{
+.logo-footer{
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -250,7 +250,7 @@ ol {
     display: inline-block;
     margin-bottom: 16px;
 }
-.page-footer .logo-accent-footer{
+.logo-accent-footer{
     color: #4D5AE5;
 }
 .page-footer{
