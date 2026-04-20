@@ -266,5 +266,5 @@ a {
 }
 .footer-content{
     max-width: 264px;
-    max-height: 112px;
+    /* max-height: 112px; */
 }
