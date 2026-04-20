@@ -5,16 +5,10 @@ body {
     background-color: #FFFFFF;
     line-height: 1.5;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-ul {
+ul{
     margin: 0;
-    padding: 0;
+    padding-left: 0;
+    list-style: none;
 }
 img {
     display: block;
@@ -24,11 +18,6 @@ img {
 
 a {
     text-decoration: none;
-}
-
-ul,
-ol {
-    list-style: none;
 }
 .container {
     max-width: 1158px;
@@ -74,8 +63,6 @@ ol {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    align-items: center;
-   
 }
 .nav-link,
 .contact-link {
@@ -257,6 +244,10 @@ ol {
     padding-top: 100px;
     padding-bottom: 100px;
     
+}
+.footer-text{
+    color: #FFFFFF;
+    margin-top: 0;
 }
 .footer-content{
     max-width: 264px;
