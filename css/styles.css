@@ -5,7 +5,17 @@ body {
     background-color: #FFFFFF;
     line-height: 1.5;
 }
-ul{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+}
+ul {
     margin: 0;
     padding-left: 0;
     list-style: none;
@@ -45,7 +55,7 @@ a {
     gap: 76px;
 }
 .contacts{
-    margin-left: auto;
+    /* margin-left: auto; */
 }
 
 .contacts-list{
@@ -222,9 +232,7 @@ a {
     margin-bottom: 72px;
 
 }
-.page-footer-discription {
-    color: #FFFFFF;
-}
+
 .team-hero, .team-description{
     text-align: center;
 }
